@@ -264,6 +264,8 @@ h1 p{
     overflow: hidden;
     max-width: 370px;
     border: 1px solid #e9e4de;
+    cursor: pointer;
+    transition: transform 0.3s ease 0s
 }
 
 .tips-grid-item:hover{
